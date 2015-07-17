@@ -1,0 +1,23 @@
+{
+  "name": "scalyr-angular",
+  "version": "1.0.3",
+  "authors": [
+    "Alex Borisov <alex@alexborisov.org>"
+  ],
+  "description": "A fork of the Scalyr optimisation directives brining the repository to an acceptable standard",
+  "main": "scalyr.js",
+  "keywords": [
+    "angular",
+    "directives",
+    "scalyr"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/alexborisov/scalyr-angular",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
